@@ -1,7 +1,7 @@
 # Car Dealership Web Application
 
-## Project Description
-This is a full-stack web application developed as part of the Full-stack Development Capstone Project.
+## Description
+This project is a full-stack web application developed as part of the Full-stack Development Capstone Project.
 
 The application allows users to:
 - View car dealership branches
@@ -16,14 +16,8 @@ The application allows users to:
 - DevOps: Docker, Kubernetes, GitHub Actions
 
 ## Features
-- User authentication (Login / Logout)
-- Dealer listing and filtering
-- Dealer detail page with reviews
-- Add and view reviews
-- Sentiment analysis for reviews
-
-## Deployment
-The application is deployed using cloud services.
-
-## Author
-<Your Name>
+- User authentication (Login and Logout)
+- Dealer listing and filtering by state
+- Dealer details with customer reviews
+- Add new reviews
+- Sentiment analysis for customer feedback
